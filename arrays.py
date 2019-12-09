@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by : Teddy Sannan
-# Created on : December 05 2019
+# Created on : December 2019
 # This program uses arrays to determine the smallest number
 
 import random
